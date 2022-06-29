@@ -1,6 +1,7 @@
 # Layermark-TestNG 
 
-A page object model desing test example with reports output. 
+A test example designed with page object model supported by reports output.
+
 
 
 ![video](https://github.com/Bariscanates404/voyz-voyz_public/blob/main/layermark.gif)
